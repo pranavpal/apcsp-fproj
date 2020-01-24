@@ -13,7 +13,7 @@ int main(int argc, char* argv[])
    
  if (argc != 5)
   {
-    printf("%s : expected 4 args, please enter two floats\n", argv[0]);
+    printf("%s : expected 4 args, please enter four floats\n", argv[0]);
     return 1;
   }
 
